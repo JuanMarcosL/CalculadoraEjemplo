@@ -20,6 +20,8 @@ public class Main {
      * @param args Argumentos de línea de comandos.
      */
     public static void main(String[] args) {
+        
+        System.out.println("Agregado para prueba de segundo commit");
 
         // --- Objeto 1: operandos 10 y 3 ---
         CalculadoraEjemplo calc1 = new CalculadoraEjemplo(10, 3);
