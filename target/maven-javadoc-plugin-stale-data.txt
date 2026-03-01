@@ -1,0 +1,44 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'20'
+-sourcepath
+'C:/Users/Juan Carlos/Documents/NetBeansProjects/CalculadoraEjemplo/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Juan Carlos/Documents/NetBeansProjects/CalculadoraEjemplo/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'CalculadoraEjemplo 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'CalculadoraEjemplo 1.0-SNAPSHOT API'
+com.mycompany.calculadoraejemplo
+C:\Users\Juan Carlos\Documents\NetBeansProjects\CalculadoraEjemplo\src\main\java = 1772331431703
+C:\Users\Juan Carlos\Documents\NetBeansProjects\CalculadoraEjemplo\target\site\apidocs\allclasses-index.html = 1772332917001
+C:\Users\Juan Carlos\Documents\NetBeansProjects\CalculadoraEjemplo\target\site\apidocs\allpackages-index.html = 1772332917006
+C:\Users\Juan Carlos\Documents\NetBeansProjects\CalculadoraEjemplo\target\site\apidocs\copy.svg = 1772332917048
+C:\Users\Juan Carlos\Documents\NetBeansProjects\CalculadoraEjemplo\target\site\apidocs\element-list = 1772332916950
+C:\Users\Juan Carlos\Documents\NetBeansProjects\CalculadoraEjemplo\target\site\apidocs\help-doc.html = 1772332917041
+C:\Users\Juan Carlos\Documents\NetBeansProjects\CalculadoraEjemplo\target\site\apidocs\index-all.html = 1772332917030
+C:\Users\Juan Carlos\Documents\NetBeansProjects\CalculadoraEjemplo\target\site\apidocs\index.html = 1772332917036
+C:\Users\Juan Carlos\Documents\NetBeansProjects\CalculadoraEjemplo\target\site\apidocs\member-search-index.js = 1772332917013
+C:\Users\Juan Carlos\Documents\NetBeansProjects\CalculadoraEjemplo\target\site\apidocs\module-search-index.js = 1772332917008
+C:\Users\Juan Carlos\Documents\NetBeansProjects\CalculadoraEjemplo\target\site\apidocs\overview-tree.html = 1772332916987
+C:\Users\Juan Carlos\Documents\NetBeansProjects\CalculadoraEjemplo\target\site\apidocs\package-search-index.js = 1772332917010
+C:\Users\Juan Carlos\Documents\NetBeansProjects\CalculadoraEjemplo\target\site\apidocs\script.js = 1772332917046
+C:\Users\Juan Carlos\Documents\NetBeansProjects\CalculadoraEjemplo\target\site\apidocs\search-page.js = 1772332917053
+C:\Users\Juan Carlos\Documents\NetBeansProjects\CalculadoraEjemplo\target\site\apidocs\search.html = 1772332917033
+C:\Users\Juan Carlos\Documents\NetBeansProjects\CalculadoraEjemplo\target\site\apidocs\search.js = 1772332917051
+C:\Users\Juan Carlos\Documents\NetBeansProjects\CalculadoraEjemplo\target\site\apidocs\stylesheet.css = 1772332917044
+C:\Users\Juan Carlos\Documents\NetBeansProjects\CalculadoraEjemplo\target\site\apidocs\tag-search-index.js = 1772332917015
+C:\Users\Juan Carlos\Documents\NetBeansProjects\CalculadoraEjemplo\target\site\apidocs\type-search-index.js = 1772332917012
